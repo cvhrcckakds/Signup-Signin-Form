@@ -4,4 +4,8 @@ Login and registration form that allows us to enter and subscribe to websites
 
 <h2>External technologies used:</h2>
 
-<p> HTML, CSS</p>
+<p> -HTML, 
+    -CSS</p>
+
+<h1>Gif</h1>
+<img src="/Signup-Signin.gif">
